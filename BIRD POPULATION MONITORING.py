@@ -1,12 +1,11 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║          WILDLIFE & BIRD POPULATION MONITORING                          ║
+║          WILDLIFE & BIRD POPULATION MONITORING                                  ║
 ║          Real-Time Ecological Intelligence System                               ║
 ╠══════════════════════════════════════════════════════════════════════════════════╣
-║  Dev/Creator : tubakhxn                                                        ║
-║  GitHub      : https://github.com/tubakhxn                                     ║
+║  Dev/Creator : Lishang Gajendra                                                  ║
 ╠══════════════════════════════════════════════════════════════════════════════════╣
-║  ADDED: tqdm progress bar for video processing                                 ║
+║  ADDED: tqdm progress bar for video processing                                   ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 """
 
