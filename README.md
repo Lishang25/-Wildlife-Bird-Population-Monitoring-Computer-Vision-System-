@@ -5,7 +5,7 @@
 Wildlife detection and tracking
 Bird population monitoring
 Movement trail visualization
-Migration direction analysiss
+Migration direction analysis
 Wildlife heatmaps
 Population analytics
 Real-time AI dashboard
