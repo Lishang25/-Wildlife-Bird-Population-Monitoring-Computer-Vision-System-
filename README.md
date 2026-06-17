@@ -1,4 +1,4 @@
-## Real-time wildlife intelligence system for detecting, tracking, and analyzing birds and animals.
+## Real-time wildlife intelligence system for detecting, tracking, and analyzing birds and animals
 
 ## Features
 
